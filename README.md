@@ -1,6 +1,7 @@
 # Feature-Selection-Techniques
-<a href="https://github.com/maha-prathamesh/Feature-Selection-Techniques/blob/main/FILTER%20METHOD.ipynb">Notebook for filter methods : FILTER METHOD.ipynb</a>
+
 - <b> Filter Techniques</b> (Feature Size = 390) 
+ <a href="https://github.com/maha-prathamesh/Feature-Selection-Techniques/blob/main/FILTER%20METHOD.ipynb">Notebook for filter methods : FILTER METHOD.ipynb</a>
     * Constant filter (Feature Size after constant filter = 295)
     * Quasi constant filter (Feature Size after quasi constant filter = 270)
     * Remove duplicate feature (Feature Size after removal of duplicate feature = 227)
