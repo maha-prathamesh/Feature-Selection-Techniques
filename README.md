@@ -12,3 +12,5 @@
 ##### Disadvantage
 - Not much improved accuracy
 - No relation check between filter
+
+<a href="https://github.com/maha-prathamesh/Feature-Selection-Techniques/blob/main/FILTER%20METHOD.ipynb">Notebook for filter methods : FILTER METHOD.ipynb</a>
